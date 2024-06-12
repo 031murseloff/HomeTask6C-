@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C#HomeTask6", "C#HomeTask6\C#HomeTask6.csproj", "{A7CC1C4F-49CC-4D1D-B03F-5EA22C8E657A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyExceptions", "MyExceptions\MyExceptions.csproj", "{25D77E04-6267-4C66-9AF7-2DB4BA673876}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A7CC1C4F-49CC-4D1D-B03F-5EA22C8E657A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7CC1C4F-49CC-4D1D-B03F-5EA22C8E657A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7CC1C4F-49CC-4D1D-B03F-5EA22C8E657A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7CC1C4F-49CC-4D1D-B03F-5EA22C8E657A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{25D77E04-6267-4C66-9AF7-2DB4BA673876}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{25D77E04-6267-4C66-9AF7-2DB4BA673876}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{25D77E04-6267-4C66-9AF7-2DB4BA673876}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{25D77E04-6267-4C66-9AF7-2DB4BA673876}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {779B93BB-C895-47C8-83EB-56427DA17A13}
+	EndGlobalSection
+EndGlobal
